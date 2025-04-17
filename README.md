@@ -1,13 +1,5 @@
 # jpa04-saeed-ar
 
-```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
-
-Running at: <https://jpa04-cgaucho.dokku-13.cs.ucsb.edu>
-
-Then remove this TODO item.
-```
 
 Running at: <https://jpa04-saeed-ar.dokku-06.cs.ucsb.edu>
 
